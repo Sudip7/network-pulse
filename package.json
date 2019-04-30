@@ -54,7 +54,7 @@
   },
   "homepage": "https://github.com/mozilla/network-pulse#readme",
   "devDependencies": {
-    "chokidar": "^1.6.1",
+    "chokidar": "^3.0.0",
     "chokidar-cli": "^1.2.0",
     "eslint": "^3.11.1",
     "eslint-plugin-react": "^6.7.1",
